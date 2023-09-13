@@ -3,7 +3,7 @@
 Data is scraped with the help of proxy server.
 Frontend gives request to the proxy server which then gets data from the target website.
 
-proxy sever example, https://github.com/sverp/proxysv
+proxy I used, https://github.com/sverp/proxysv
 
 
 
