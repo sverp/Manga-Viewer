@@ -1,9 +1,12 @@
 # Manga-Viewer
 
-Data is scraped with the help of proxy server.
-Frontend gives request to the proxy server which then gets data from the target website.
+Data is scraped with the help of a server.
+Frontend gives request to the server which then gets data from the target website.
 
-proxy I used, https://github.com/sverp/proxysv
+nodejs server I used, https://github.com/sverp/proxysv
+
+run this server
+then, run this app
 
 
 
